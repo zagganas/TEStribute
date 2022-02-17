@@ -63,7 +63,7 @@ openapi-spec-validator==0.2.8
 packaging==19.0
 pip-review==1.0
 pkginfo==1.5.0.1
-pluggy==0.12.0
+pluggy==1.0.0
 py==1.10.0
 pycodestyle==2.5.0
 pycparser==2.19
@@ -75,7 +75,7 @@ pylint==2.3.1
 pyparsing==2.4.1.1
 pyquery==1.4.0
 pyrsistent==0.15.3
-pytest==5.0.1
+pytest==6.2.5
 python-dateutil==2.8.0
 pytz==2019.1
 PyYAML==5.4
